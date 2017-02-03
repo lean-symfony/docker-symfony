@@ -1,0 +1,5 @@
+# Project specific config
+/.env
+
+# Standard Symfony Root
+/symfony/
